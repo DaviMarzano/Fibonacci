@@ -1,3 +1,3 @@
 Fibonacci
 
-🧠 - n this mini-project I am improving some (OO) concepts.
+🧠 - In this mini-project I am improving some (OO) concepts.
